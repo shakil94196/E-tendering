@@ -24,12 +24,12 @@ The Role of Administrator is:
   5. View All the Tenders.
   6. View All the Bids of a tender.
   7. Assign tender to a vendor.
-  8. The Role of a Vendor is:
+The Role of a Vendor is:
 
-Login with his account (username and password given by admin)
-  1. View all the current Tenders.
-  2. Place a Bid against a Tender.
-  3. View status of a Bid(Whether Selected or Not)
-  4. View his own Bid History.
+  1. Login with his account (username and password given by admin)
+  2. View all the current Tenders.
+  3. Place a Bid against a Tender.
+  4. View status of a Bid(Whether Selected or Not)
+  5. View his own Bid History.
 
 
