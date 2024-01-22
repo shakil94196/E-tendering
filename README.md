@@ -31,3 +31,5 @@ Login with his account (username and password given by admin)
   2. Place a Bid against a Tender.
   3. View status of a Bid(Whether Selected or Not)
   4. View his own Bid History.
+
+
